@@ -1,5 +1,3 @@
-\
-
 👋 Hi, I’m Aniruthan Swaminathan Arulmurugan, A Data Analytics Engineering Master's student at Northeastern University, specializing in Database Management, Visualization, and Supervised Machine Learning.
 
 👀 I’m deeply passionate about harnessing the power of data to drive decision-making and innovation. With a strong foundation in Electronics and Communication Engineering from Amrita University, my journey has been a blend of academic rigor and real-world application.
