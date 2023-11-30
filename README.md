@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aniruthan-0709
+- 👋 Hi, I’m Aniruthan
 - 👀 I’m interested in Bid data
 - 🌱 I’m currently learning MS in Data analytics Engineering
 - 💞️ I’m looking to collaborate on projects related to Data Engineering, Machine Learning and Data Analysis
