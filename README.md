@@ -2,7 +2,7 @@
 
 👀 I’m deeply passionate about harnessing the power of data to drive decision-making and innovation. With a strong foundation in Electronics and Communication Engineering from Amrita University, my journey has been a blend of academic rigor and real-world application.
 
-🌱 Currently, I'm honing my expertise in data engineering, machine learning, and data analysis. My educational journey is complemented by professional experiences at Hewlett Packard Enterprise, where I excelled as a Technical Problem Manager and Technical Solution Consultant.
+🌱 Currently, I'm honing my expertise in data engineering, machine learning, and Big Data. My educational journey is complemented by professional experiences at Hewlett Packard Enterprise, where I excelled as a Technical Problem Manager and Technical Solution Consultant.
 
 💞️ I’m looking to collaborate on projects related to Data Engineering, Machine Learning, and Data Analysis. My skills span across various domains such as ETL, SQL, NoSQL, Python, Machine Learning, and advanced data visualization tools like Power BI and Tableau. 
 
